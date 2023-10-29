@@ -4,4 +4,3 @@ package assignment_2;
 interface Coffee {
     int cost();
 }
-
